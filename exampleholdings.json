@@ -1,0 +1,42 @@
+[
+    {
+        "account_type": "401k",
+        "investment": "fxaix",
+        "value": 1000
+    },
+    {
+        "account_type": "401k",
+        "investment": "fiknx",
+        "value": 180
+    },
+    {
+        "account_type": "brokerage_link",
+        "investment": "fselx",
+        "value": 1500
+    },
+    {
+        "account_type": "brokerage_link",
+        "investment": "uanqx",
+        "value": 1100
+    },
+    {
+        "account_type": "brokerage_link",
+        "investment": "fzilx",
+        "value": 770
+    },
+    {
+        "account_type": "roth_brokerage_link",
+        "investment": "fselx",
+        "value": 700
+    },
+    {
+        "account_type": "roth_brokerage_link",
+        "investment": "uanqx",
+        "value": 400
+    },
+    {
+        "account_type": "roth_brokerage_link",
+        "investment": "fzilx",
+        "value": 250
+    }
+]
